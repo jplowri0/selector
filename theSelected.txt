@@ -76,3 +76,10 @@ https://twitter.com/win3zz/status/1692582975937057091?s=61&t=9B4hiAO9LzReYEXc3zc
 https://twitter.com/0xor0ne/status/1689720821374152706?s=46&t=uBCoMukYepAv28DVCe3egQ
 https://blog.cryptohack.org/twitter-secrets
 https://twitter.com/jayesh25_/status/1747548320032010731?s=46&t=uBCoMukYepAv28DVCe3egQ](https://x.com/jayesh25_/status/1747548320032010731
+https://securitylab.github.com/advisories/GHSL-2023-260_BigDL-LLM/
+https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/apache-activemq-vulnerability-leads-to-stealthy-godzilla-webshell/
+https://www.bleepingcomputer.com/news/security/exploit-released-for-fortra-goanywhere-mft-auth-bypass-bug/
+https://www.horizon3.ai/cve-2024-0204-fortra-goanywhere-mft-authentication-bypass-deep-dive/
+https://isc.sans.edu/diary/rss/30582
+https://mahmoudzohdy.github.io/posts/re/plugx/
+https://github.com/VNCERT-CC/CVE-2023-22527-confluence
