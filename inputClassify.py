@@ -69,7 +69,8 @@ def main(output_csv_path):
         'Hardware': 0,
         'Business': 0,
         'CounterOps': 0,
-        'Intrustions': 0
+        'Intrustions': 0,
+        'Privacy': 0
     }
 
     category_mappings = {
@@ -104,7 +105,8 @@ def main(output_csv_path):
         'HA': 'Hardware',
         'B': 'Business',
         'CO': 'CounterOps',
-        'I': 'Intrustions'
+        'I': 'Intrustions',
+        'PVC': 'Privacy'
     }
 
     classifications_header = ['URL'] + list(classifications.keys())

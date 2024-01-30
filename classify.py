@@ -37,7 +37,8 @@ def get_user_input():
         'HA': 'Hardware',
         'B': 'Business',
         'CO': 'CounterOps',
-        'I': 'Intrustions'
+        'I': 'Intrustions',
+        'PVC': 'Privacy'
     }
 
     options = '\n'.join([f'Press "{key}" for {value}' for key, value in category_mappings.items()])
@@ -112,7 +113,8 @@ def main(csv_file_path, output_csv_path):
         'Hardware': 0,
         'Business': 0,
         'CounterOps': 0,
-        'Intrustions': 0
+        'Intrustions': 0,
+        'Privacy': 0
     }
 
     with open(csv_file_path, 'r') as csv_file, open(output_csv_path, 'w', newline='') as output_csv_file:
