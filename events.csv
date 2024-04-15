@@ -1,4 +1,4 @@
-SR,Date,URL,Malware,Reversing,PenTest,OSCP,WriteUps,Vulns,PoC,Ransomware,Israel/Gaza,CTI,Pivoting,Dark/Markets,Tools,Groups,Threat Hunting,Phishing,Geopolitical,Attribution,Advice,Infowar,Australia,Forensics,CTFs,Fraud,Ukraine,SIEM,Networking,OSINT,Hardware,Business,CounterOps,Intrusions,Privacy
+SR,Date,URL,Malware,Reversing,PenTest,OSCP,WriteUps,Vulns,PoC,Ransomware,Israel/Gaza,CTI,Pivoting,Dark/Markets,Tools,Groups,Threat Hunting,Phishing,Geopolitical,Attribution,Advice,Infowar,Australia,Forensics,CTFs,Fraud,Ukraine,SIEM,Networking,OSINT,Hardware,Business,CounterOps,Intrusions,Privacy,Lolbins
 EVT00000001,6/11/2023,https://www.reddit.com/r/MalwareAnalysis/comments/17oeudi/cant_uninstall_pinaview/,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 EVT00000002,6/11/2023,https://www.securityweek.com/north-korean-hackers-use-new-kandykorn-macos-malware-in-attacks/,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 EVT00000003,6/11/2023,https://trustedsec.com/blog/js-tap-weaponizing-javascript-for-red-teams,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
