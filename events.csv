@@ -1245,5 +1245,22 @@ ENVCOUNT,17/04/2024,https://securityaffairs.com/161899/cyber-warfare-2/russia-sa
 ENVCOUNT,17/04/2024,https://thehackernews.com/2024/04/hive-rat-creators-and-35m-cryptojacking.html?&web_view=true,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
 ENVCOUNT,17/04/2024,https://www.chiark.greenend.org.uk/~sgtatham/putty/wishlist/vuln-p521-bias.html,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 ENVCOUNT,17/04/2024,https://isc.sans.edu/diary/rss/30844,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-
+ENVCOUNT,18/04/2024,https://www.darkreading.com/ics-ot-security/dangerous-new-ics-malware-targets-orgs-in-russia-and-ukraine,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+ENVCOUNT,18/04/2024,https://www.huntandhackett.com/blog/reconstructing-executables-part1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVCOUNT,18/04/2024,https://securelist.com/soumnibot-android-banker-obfuscates-app-manifest/112334/,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVCOUNT,18/04/2024,https://www.trendmicro.com/en_us/research/24/d/labhost-takedown.html,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+ENVCOUNT,18/04/2024,https://www.cadosecurity.com/blog/cerber-ransomware-dissecting-the-three-heads,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVCOUNT,18/04/2024,https://www.fortinet.com/blog/threat-research/botnets-continue-exploiting-cve-2023-1389-for-wide-scale-spread?&web_view=true,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVCOUNT,18/04/2024,https://blog.talosintelligence.com/offlrouter-virus-causes-upload-confidential-documents-to-virustotal/,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+ENVCOUNT,18/04/2024,https://www.securityweek.com/ivanti-patches-27-vulnerabilities-in-avalanche-mdm-product/,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVCOUNT,18/04/2024,https://www.infosecurity-magazine.com/news/russian-sandworm-backdoor-ukraine/?&web_view=true,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+ENVCOUNT,18/04/2024,https://www.fortinet.com/blog/threat-research/botnets-continue-exploiting-cve-2023-1389-for-wide-scale-spread,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVCOUNT,18/04/2024,https://services.google.com/fh/files/misc/apt44-unearthing-sandworm.pdf,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+ENVCOUNT,18/04/2024,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-cimc-cmd-inj-mUx4c5AJ,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVCOUNT,18/04/2024,https://www.bleepingcomputer.com/news/security/moldovan-charged-for-operating-botnet-used-to-push-ransomware/,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+ENVCOUNT,18/04/2024,https://www.afp.gov.au/news-centre/media-release/afp-traps-alleged-rat-developer,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+ENVCOUNT,18/04/2024,https://www.darkreading.com/cyberattacks-data-breaches/israeli-defense-forces-hold-hybrid-cyber-military-readiness-drills,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVCOUNT,18/04/2024,https://unit42.paloaltonetworks.com/cve-2024-3400/,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVCOUNT,18/04/2024,https://www.infosecurity-magazine.com/news/insider-threats-14-cost-living/,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVCOUNT,18/04/2024,https://www.resecurity.com/blog/article/misinformation-and-hacktivist-campaigns-target-the-philippines-amidst-rising-tensions-with-china,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 
