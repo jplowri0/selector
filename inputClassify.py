@@ -71,7 +71,9 @@ def main(output_csv_path):
         'CounterOps': 0,
         'Intrustions': 0,
         'Privacy': 0,
-        'LOLBINS': 0
+        'LOLBINS': 0,
+        'Incident Response': 0,
+        'Detections': 0
     }
 
     category_mappings = {
@@ -108,7 +110,9 @@ def main(output_csv_path):
         'CO': 'CounterOps',
         'I': 'Intrustions',
         'PVC': 'Privacy',
-        'L': 'LOLBINS'
+        'L': 'LOLBINS',
+        'IR': 'Incident Response',
+        'DE': 'Detections'
     }
 
     classifications_header = ['URL'] + list(classifications.keys())
