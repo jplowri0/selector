@@ -1311,5 +1311,25 @@ ENVCOUNT,23/04/2023,https://www.darkreading.com/cyberattacks-data-breaches/undp-
 ENVCOUNT,23/04/2023,https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-038a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
 ENVCOUNT,23/04/2023,https://www.theregister.com/2024/04/19/germany_arrests_alleged_russian_spies/,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
 ENVCOUNT,23/04/2023,https://blog.talosintelligence.com/offlrouter-virus-causes-upload-confidential-documents-to-virustotal/,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+ENVCOUNT,24/04/2023,https://www.sentinelone.com/labs/labscon23-replay-meet-the-iranian-company-powering-russias-drone-war-on-ukraine/,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+ENVCOUNT,24/04/2023,https://www.infosecurity-magazine.com/news/us-imposes-visa-restrictions/,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+ENVCOUNT,24/04/2023,https://www.infosecurity-magazine.com/news/e2e-encryption-sparks-concerns-eu/,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0
+ENVCOUNT,24/04/2023,https://decoded.avast.io/janrubin/guptiminer-hijacking-antivirus-updates-for-distributing-backdoors-and-casual-mining/,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+ENVCOUNT,24/04/2023,https://www.bleepingcomputer.com/news/security/unitedhealth-confirms-it-paid-ransomware-gang-to-stop-data-leak/,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+ENVCOUNT,24/04/2023,https://www.reddit.com/r/Malware/comments/1cb5t52/fileless_malware_detection_tool_using_memory/,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVCOUNT,24/04/2023,https://apnews.com/article/spain-france-spyware-pegasus-49fd974eb9245d4a87361bde3001542b,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+ENVCOUNT,24/04/2023,https://rhinosecuritylabs.com/research/cve-2024-2389-in-progress-flowmon/,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVCOUNT,24/04/2023,https://blog.phylum.io/north-korean-state-actors/,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVCOUNT,24/04/2023,https://emptynebuli.github.io/tooling/2024/04/22/blackberryMDM.html,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVCOUNT,24/04/2023,https://www.positronsecurity.com/blog/2024-04-23-an-analysis-of-dheat-dos-against-ssh-in-cloud-environments/,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVCOUNT,24/04/2023,https://securityaffairs.com/162193/apt/north-korea-south-korean-defense-contractors.html,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVCOUNT,24/04/2023,https://www.theregister.com/2024/04/22/edr_attack_remote_data_deletion/?&web_view=true,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVCOUNT,24/04/2023,https://www.theregister.com/2024/04/22/edr_attack_remote_data_deletion/?&web_view=true,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVCOUNT,24/04/2023,https://www.securityweek.com/ransomware-gang-leaks-data-allegedly-stolen-from-government-contractor/,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+ENVCOUNT,24/04/2023,https://blogs.microsoft.com/on-the-issues/2024/04/04/china-ai-influence-elections-mtac-cybersecurity/,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVCOUNT,24/04/2023,https://www.bleepingcomputer.com/news/security/github-comments-abused-to-push-malware-via-microsoft-repo-urls/?&web_view=true,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVCOUNT,24/04/2023,https://www.gdatasoftware.com/blog/2024/04/37894-sharp-info-stealer?&web_view=true,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVCOUNT,24/04/2023,https://harfanglab.io/en/insidethelab/muddywater-rmm-campaign/,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+ENVCOUNT,24/04/2023,https://www.helpnetsecurity.com/2024/04/22/cloud-console-cartographer-open-source-tool/?web_view=true,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 
 
