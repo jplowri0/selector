@@ -1331,5 +1331,20 @@ ENVCOUNT,24/04/2023,https://www.bleepingcomputer.com/news/security/github-commen
 ENVCOUNT,24/04/2023,https://www.gdatasoftware.com/blog/2024/04/37894-sharp-info-stealer?&web_view=true,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 ENVCOUNT,24/04/2023,https://harfanglab.io/en/insidethelab/muddywater-rmm-campaign/,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
 ENVCOUNT,24/04/2023,https://www.helpnetsecurity.com/2024/04/22/cloud-console-cartographer-open-source-tool/?web_view=true,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-
+ENVCOUNT,25/04/2023,https://www.trendmicro.com/en_us/research/24/d/trend-micro-collaborated-with-interpol-in-cracking-down-grandore.html,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVCOUNT,25/04/2023,https://blog.talosintelligence.com/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices/,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVCOUNT,25/04/2023,https://therecord.media/chinese-russian-hackers-edge-devices?&web_view=true,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVCOUNT,25/04/2023,https://www.darkreading.com/cyberattacks-data-breaches/iran-dupes-military-contractors-govt-agencies-cybercampaign,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVCOUNT,25/04/2023,https://www.theregister.com/2024/04/24/ads_on_gov_uk_websites/,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVCOUNT,25/04/2023,https://blog.talosintelligence.com/suspected-coralraider-continues-to-expand-victimology-using-three-information-stealers/,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+ENVCOUNT,25/04/2023,https://www.darkreading.com/cyberattacks-data-breaches/north-korea-apt-triumvirate-spied-on-south-korean-defense-industry-for-years,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVCOUNT,25/04/2023,https://blog.gigamon.com/2024/04/24/leveraging-application-metadata-intelligence-to-identify-cve-2024-3400-midnighteclipse/,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVCOUNT,25/04/2023,https://www.ericdaigle.ca/isharing-data-leak-writeup/,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+ENVCOUNT,25/04/2023,https://securityaffairs.com/162244/apt/nation-state-actors-exploited-two-zero-days-in-asa-and-ftd-firewalls-to-breach-government-networks.html,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVCOUNT,25/04/2023,https://www.theregister.com/2024/04/25/asio_afp_accountable_encryption/,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+ENVCOUNT,25/04/2023,https://www.cyber.gc.ca/en/news-events/cyber-activity-impacting-cisco-asa-vpns,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVCOUNT,25/04/2023,https://github.com/fin3ss3g0d/ASPJinjaObfuscator,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVCOUNT,25/04/2023,https://securityaffairs.com/162219/hacking/leicester-city-cyberattack.html,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+ENVCOUNT,25/04/2023,https://therecord.media/hackers-breach-news-website-false-article-slovakia-assassination?&web_view=true,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVCOUNT,25/04/2023,https://www.securityweek.com/prophet-security-emerges-from-stealth-mode-with-11-million-in-funding/,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
 
