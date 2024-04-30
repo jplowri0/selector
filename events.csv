@@ -1423,4 +1423,23 @@ ENVCOUNT,29/04/2023,https://www.theregister.com/2024/04/26/pinyin_keyboard_secur
 ENVCOUNT,29/04/2023,https://techcommunity.microsoft.com/t5/windows-it-pro-blog/revoking-vulnerable-windows-boot-managers/ba-p/4121735,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 ENVCOUNT,29/04/2023,https://securelist.com/xz-backdoor-story-part-2-social-engineering/112476/,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 ENVCOUNT,29/04/2023,https://www.seqrite.com/blog/pakistani-apts-escalate-attacks-on-indian-gov-seqrite-labs-unveils-threats-and-connections/,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVCOUNT,30/04/2023,https://blog.talosintelligence.com/researcher-spotlight-james-nutland/,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVCOUNT,30/04/2023,https://blogs.infoblox.com/threat-intelligence/a-cunning-operator-muddling-meerkat-and-chinas-great-firewall/,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVCOUNT,30/04/2023,https://www.securityweek.com/cisa-rolls-out-new-guidelines-to-mitigate-ai-risks-to-us-critical-infrastructure/,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVCOUNT,30/04/2023,https://www.securityweek.com/180k-impacted-by-data-breach-at-michigan-healthcare-organization/,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+ENVCOUNT,30/04/2023,https://www.theregister.com/2024/04/29/canada_london_drugs/,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+ENVCOUNT,30/04/2023,https://www.infosecurity-magazine.com/news/openai-chatgpt-breaking-gdpr-noyb/,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+ENVCOUNT,30/04/2023,https://sec.okta.com/blockanonymizers,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVCOUNT,30/04/2023,https://www.darkreading.com/cyberattacks-data-breaches/13-4m-kaiser-insurance-members-affected-by-data-leak-to-online-advertisers,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+ENVCOUNT,30/04/2023,https://hiddenlayer.com/research/r-bitrary-code-execution/,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVCOUNT,30/04/2023,https://tantosec.com/blog/judge0/,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVCOUNT,30/04/2023,https://www.helpnetsecurity.com/2024/04/26/current-user-password-practices/?web_view=true,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVCOUNT,30/04/2023,https://therecord.media/MI5-protect-british-universities-from-espionage?&web_view=true,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVCOUNT,30/04/2023,https://security.paloaltonetworks.com/CVE-2024-3400,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVCOUNT,30/04/2023,https://securityaffairs.com/162494/data-breach/los-angeles-county-department-of-health-services-data-breach.html,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+ENVCOUNT,30/04/2023,https://therecord.media/vulnerabilities-resolved-through-cisa-pilot?&web_view=true,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVCOUNT,30/04/2023,https://www.bleepingcomputer.com/news/security/collection-agency-fbcs-warns-data-breach-impacts-19-million-people/,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+ENVCOUNT,30/04/2023,https://blog.sonicwall.com/en-us/2024/04/analysis-of-native-process-clr-hosting-used-by-agenttesla/?&web_view=true,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVCOUNT,30/04/2023,https://www.bleepingcomputer.com/news/security/japanese-police-create-fake-support-scam-payment-cards-to-warn-victims/?&web_view=true,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVCOUNT,30/04/2023,https://therecord.media/ddos-attacks-meduza-post-election?&web_view=true,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
 
