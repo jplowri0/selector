@@ -73,7 +73,8 @@ def main(output_csv_path):
         'Privacy': 0,
         'LOLBINS': 0,
         'Incident Response': 0,
-        'Detections': 0
+        'Detections': 0,
+        'Artificial Intelligence': 0
     }
 
     category_mappings = {
@@ -112,7 +113,8 @@ def main(output_csv_path):
         'PVC': 'Privacy',
         'L': 'LOLBINS',
         'IR': 'Incident Response',
-        'DE': 'Detections'
+        'DE': 'Detections',
+        'AI':'Artificial Intelligence'
     }
 
     classifications_header = ['URL'] + list(classifications.keys())
