@@ -1965,4 +1965,23 @@ ENVCOUNT,27/05/2024,https://www.infosecurity-magazine.com/news/cloud-storage-exp
 ENVCOUNT,27/05/2024,https://www.healthcareinfosecurity.com/rockwell-automation-urges-disconnection-ics-from-internet-a-25298?&web_view=true,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
 ENVCOUNT,27/05/2024,https://www.shadowstackre.com/analysis/gomir,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 ENVCOUNT,27/05/2024,https://pushsecurity.com/blog/phishing-2-0-how-phishing-toolkits-are-evolving-with-aitm/,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVCOUNT,28/05/2024,URL,Malware,Reversing,PenTest,OSCP,WriteUps,Vulnerabilities,PoC,Ransomware,Isreal/Gaza,CTI,Pivoting,Darkweb / Markets,Tools,Groups,Threat Hunting,Phishing,Geopolitical,Attribution,Advice,InfoWar,Australia,Forensics,CTFs,Fraud,Ukraine,SIEM,Networking,OSINT,Hardware,Business,CounterOps,Intrustions,Privacy,LOLBINS,Incident Response,Detections,Artificial Intelligence
+ENVCOUNT,28/05/2024,https://github.com/hashtopolis/server,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVCOUNT,28/05/2024,https://badoption.eu/blog/2023/10/03/MSIFortune.html,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+ENVCOUNT,28/05/2024,https://www.embeeresearch.io/advanced-cyberchef-operations-netsupport/,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVCOUNT,28/05/2024,https://securelist.com/message-board-scam/112691/,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVCOUNT,28/05/2024,https://medium.com/@truvis.thornton/part-2-threat-detection-engineering-and-incident-response-with-auditd-and-sentinel-combine-a3384e1164e6,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+ENVCOUNT,28/05/2024,https://www.lab539.com/blog/conditional-access-policy-to-block-tor-ips,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVCOUNT,28/05/2024,https://securityaffairs.com/163748/data-breach/sav-rx-data-breach.html,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+ENVCOUNT,28/05/2024,https://www.theregister.com/2024/05/27/government_agencies_slowly_getting_onboard/,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVCOUNT,28/05/2024,https://www.bleepingcomputer.com/news/security/tp-link-fixes-critical-rce-bug-in-popular-c5400x-gaming-router/,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVCOUNT,28/05/2024,https://www.bleepingcomputer.com/news/security/hackers-target-check-point-vpns-to-breach-enterprise-networks/,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVCOUNT,28/05/2024,https://securitylabs.datadoghq.com/articles/malicious-pypi-package-targeting-highly-specific-macos-machines/?&web_view=true,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVCOUNT,28/05/2024,https://www.bankinfosecurity.com/australian-telecom-watchdog-sues-optus-over-2022-data-breach-a-25321?&web_view=true,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+ENVCOUNT,28/05/2024,https://securityaffairs.com/163718/security/a-high-severity-vulnerability-affects-cisco-firepower-management-center.html,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVCOUNT,28/05/2024,https://www.helpnetsecurity.com/2024/05/24/fail2ban-ban-hosts-authentication-errors/?web_view=true,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+ENVCOUNT,28/05/2024,https://cert.gov.ua/article/6279419,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+ENVCOUNT,28/05/2024,https://securityaffairs.com/163732/malware/eu-atm-malware.html,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVCOUNT,28/05/2024,https://securityaffairs.com/163673/cyber-crime/fake-av-websites-distribute-malware.html?web_view=true,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+ENVCOUNT,28/05/2024,https://www.bleepingcomputer.com/news/security/sav-rx-discloses-data-breach-impacting-28-million-americans/,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
 
