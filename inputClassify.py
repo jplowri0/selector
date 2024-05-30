@@ -74,7 +74,9 @@ def main(output_csv_path):
         'LOLBINS': 0,
         'Incident Response': 0,
         'Detections': 0,
-        'Artificial Intelligence': 0
+        'Artificial Intelligence': 0,
+        'Supply Chain': 0,
+        'Recovery': 0
     }
 
     category_mappings = {
@@ -114,7 +116,9 @@ def main(output_csv_path):
         'L': 'LOLBINS',
         'IR': 'Incident Response',
         'DE': 'Detections',
-        'AI':'Artificial Intelligence'
+        'AI':'Artificial Intelligence',
+        'SC': 'Supply Chain',
+        'REC': 'Recovery'
     }
 
     classifications_header = ['URL'] + list(classifications.keys())
