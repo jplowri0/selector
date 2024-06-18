@@ -2197,4 +2197,30 @@ ENVVOUNT,06/06/2024,https://packagemain.tech/p/identifying-container-image-vulne
 ENVVOUNT,06/06/2024,https://drive.google.com/drive/folders/11h5xZ9uPXRDZv7VA5Vl575-dInwQ1loe,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 ENVVOUNT,06/06/2024,https://www.rezonate.io/blog/github-security-guide-how-to-defend-your-organization-and-repositories-from-supply-chain-attacks/,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
 ENVVOUNT,06/06/2024,https://github.com/RtlDallas/OdinLdr,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVVOUNT,18/06/2024,URL,Malware,Reversing,PenTest,OSCP,WriteUps,Vulnerabilities,PoC,Ransomware,Isreal/Gaza,CTI,Pivoting,Darkweb / Markets,Tools,Groups,Threat Hunting,Phishing,Geopolitical,Attribution,Advice,InfoWar,Australia,Forensics,CTFs,Fraud,Ukraine,SIEM,Networking,OSINT,Hardware,Business,CounterOps,Intrustions,Privacy,LOLBINS,Incident Response,Detections,Artificial Intelligence,Supply Chain,Recovery
+ENVVOUNT,18/06/2024,https://qwiet.ai/log4shell-jndi-injection-via-attackable-log4j/,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVVOUNT,18/06/2024,https://www.trendmicro.com/en_us/research/24/f/noodle-rat-reviewing-the-new-backdoor-used-by-chinese-speaking-g.html,1,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVVOUNT,18/06/2024,https://securelist.com/2fa-phishing/112805/,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVVOUNT,18/06/2024,https://thedfirreport.com/2024/06/10/icedid-brings-screenconnect-and-csharp-streamer-to-alphv-ransomware-deployment/,1,1,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+ENVVOUNT,18/06/2024,https://isc.sans.edu/diary/rss/30994,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVVOUNT,18/06/2024,https://www.reddit.com/r/MalwareAnalysis/comments/1de7a70/cant_make_wannacry_propagate_through_vms_on/,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVVOUNT,18/06/2024,https://www.horizon3.ai/attack-research/attack-blogs/cve-2024-29824-deep-dive-ivanti-epm-sql-injection-remote-code-execution-vulnerability/,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVVOUNT,18/06/2024,https://www.infosecurity-magazine.com/news/chinese-fortigate-espionage-20000/,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+ENVVOUNT,18/06/2024,https://www.infosecurity-magazine.com/news/scattered-spider-affiliated/,1,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVVOUNT,18/06/2024,https://blog.bushidotoken.net/2024/06/strengthening-threat-hunting-programs.html,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVVOUNT,18/06/2024,https://securelist.com/biometric-terminal-vulnerabilities/112800/,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+ENVVOUNT,18/06/2024,https://www.rapid7.com/blog/post/2024/06/17/malvertising-campaign-leads-to-execution-of-oyster-backdoor/,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVVOUNT,18/06/2024,https://securityaffairs.com/164619/deep-web/empire-market-owners-charged.html,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+ENVVOUNT,18/06/2024,https://www.darkreading.com/cyberattacks-data-breaches/scattered-spider-boss-cuffed,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+ENVVOUNT,18/06/2024,https://www.infosecurity-magazine.com/news/los-angeles-health-data-breach/,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+ENVVOUNT,18/06/2024,https://www.darkreading.com/cyber-risk/addressing-misinformation-in-critical-infrastructure-security,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVVOUNT,18/06/2024,https://www.theregister.com/2024/06/17/empire_market_arrests/,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+ENVVOUNT,18/06/2024,https://www.theregister.com/2024/06/17/guidehouse_nma_fined/,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+ENVVOUNT,18/06/2024,https://www.theregister.com/2024/06/17/blackbaud_breach_california_settlement/,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+ENVVOUNT,18/06/2024,https://www.bleepingcomputer.com/news/security/panera-bread-likely-paid-a-ransom-in-march-ransomware-attack/,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+ENVVOUNT,18/06/2024,https://www.sygnia.co/blog/china-nexus-threat-group-velvet-ant/,0,1,0,0,0,1,0,0,0,1,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVVOUNT,18/06/2024,https://www.proofpoint.com/us/blog/threat-insight/clipboard-compromise-powershell-self-pwn,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVVOUNT,18/06/2024,https://www.microsoft.com/en-us/security/blog/2024/06/12/microsoft-incident-response-tips-for-managing-a-mass-password-reset/,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+ENVVOUNT,18/06/2024,https://www.reddit.com/r/computerforensics/comments/1di1gkf/memory_forensic_tools_stack/,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVVOUNT,18/06/2024,https://bc-security.org/scriptblock-smuggling/,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 
