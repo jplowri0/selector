@@ -1,41 +1,45 @@
 import pandas as pd
 
-# Read DataFrame from the CSV file
+# Load CSV file
 df = pd.read_csv('events.csv')
 
-# Display numbered list of header items (categories)
-print("Categories:")
-for i, category in enumerate(df.columns[3:]):
+# Replace NaN values with 0
+df.fillna(0, inplace=True)
+
+# Convert relevant columns to integers
+for column in df.columns[3:]:
+    df[column] = df[column].apply(lambda x: int(x) if str(x).isdigit() else 0)
+
+# Prompt user to select categories
+print("Available categories:")
+categories = df.columns[3:]
+for i, category in enumerate(categories):
     print(f"{i + 1}. {category}")
 
-# Select categories
-selected_categories = []
+selected_indices = []
 while True:
+    user_input = input("Enter the number of the category you want to select (or 0 to finish): ")
+    if user_input == '0':
+        break
     try:
-        category_choice = int(input("Enter the number of the category to select (0 to stop): "))
-        if category_choice == 0:
-            break
-        elif 1 <= category_choice <= len(df.columns[3:]):
-            selected_categories.append(df.columns[2 + category_choice])
+        index = int(user_input.strip()) - 1
+        if 0 <= index < len(categories):
+            selected_indices.append(index)
         else:
-            print("Invalid choice. Please enter a valid number.")
+            print("Invalid selection, please try again.")
     except ValueError:
-        print("Invalid input. Please enter a number.")
+        print("Invalid input, please enter a number.")
 
-# Filter DataFrame based on selected categories (logical AND)
-filtered_df = df[df[selected_categories].eq(1).all(axis=1)]
+selected_categories = categories[selected_indices]
 
-# Output to theSelected.txt
-output_file_path = 'theSelected.txt'
-with open(output_file_path, 'w') as output_file:
-    # Redirect print to the file
-    print("Selected URLs:", file=output_file)
-    if not filtered_df.empty:
-        for url in filtered_df['URL'].tolist():
-            print(url, file=output_file)
-    else:
-        print("No matching rows found.", file=output_file)
+# Filter URLs based on selected categories
+urls = df['URL']
+selected_urls = urls[df[selected_categories].sum(axis=1) > 0]
 
-# Inform the user
-print(f"Output written to {output_file_path}")
+# Write selected URLs to theSelected.txt
+with open('theSelected.txt', 'w') as file:
+    for url in selected_urls:
+        file.write(f"{url}\n")
+
+print("The URLs have been written to theSelected.txt")
 
