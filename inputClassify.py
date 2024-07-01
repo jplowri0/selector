@@ -76,7 +76,8 @@ def main(output_csv_path):
         'Detections': 0,
         'Artificial Intelligence': 0,
         'Supply Chain': 0,
-        'Recovery': 0
+        'Recovery': 0,
+        'Honeypots': 0
     }
 
     category_mappings = {
@@ -118,7 +119,8 @@ def main(output_csv_path):
         'DE': 'Detections',
         'AI':'Artificial Intelligence',
         'SC': 'Supply Chain',
-        'REC': 'Recovery'
+        'REC': 'Recovery',
+        'HON': 'Honeypots'
     }
 
     classifications_header = ['URL'] + list(classifications.keys())
