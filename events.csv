@@ -2326,4 +2326,27 @@ ENVCOUNT,01/07/2024,https://blog.cloudflare.com/residential-proxy-bot-detection-
 ENVCOUNT,01/07/2024,https://www.fortinet.com/blog/threat-research/merkspy-exploiting-cve-2021-40444-to-infiltrate-systems?&web_view=true,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 ENVCOUNT,01/07/2024,https://www.bellingcat.com/news/2024/06/26/gaza-israel-destroy-destruction-damage-cultural-history-heritage-archaeology-conflict-war/,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
 ENVCOUNT,01/07/2024,https://cybersecurity.att.com/blogs/security-essentials/memory-dump-analysis-using-lime-for-acquisition-and-volatility-for-initial-setup,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVCOUNT,29/07/2024,https://blogs.jpcert.or.jp/en/2024/07/attack-activities-by-kimsuky-targeting-japanese-organizations.html,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVCOUNT,29/07/2024,https://www.crowdstrike.com/blog/tech-analysis-channel-file-may-contain-null-bytes/,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVCOUNT,29/07/2024,https://isc.sans.edu/diary/rss/31120,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+ENVCOUNT,29/07/2024,https://isc.sans.edu/diary/rss/31116,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVCOUNT,29/07/2024,https://maritimecybersecurity.nl/,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVCOUNT,29/07/2024,https://www.theregister.com/2024/07/29/china_cyberspace_id_proposal/,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVCOUNT,29/07/2024,https://blog.sekoia.io/unplugging-plugx-sinkholing-the-plugx-usb-worm-botnet/,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVCOUNT,29/07/2024,https://www.crowdstrike.com/blog/falcon-sensor-issue-use-to-target-crowdstrike-customers/,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVCOUNT,29/07/2024,https://www.rapid7.com/blog/post/2024/07/26/cve-2024-6922-automation-anywhere-automation-360-server-side-request-forgery/,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVCOUNT,29/07/2024,https://www.huntress.com/blog/when-trust-becomes-a-trap-how-huntress-foiled-a-medical-software-update-hack,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+ENVCOUNT,29/07/2024,https://www.crowdstrike.com/blog/hacktivist-usdod-claims-to-have-leaked-threat-actor-list/,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+ENVCOUNT,29/07/2024,https://www.crowdstrike.com/blog/fake-recovery-manual-used-to-deliver-unidentified-stealer/,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVCOUNT,29/07/2024,https://techcrunch.com/2024/07/25/spytech-data-breach-windows-mac-android-chromebook-spyware/?guccounter=1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+ENVCOUNT,29/07/2024,https://isc.sans.edu/diary/rss/31118,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVCOUNT,29/07/2024,https://securityintelligence.com/posts/unveiling-latest-banking-trojan-threats-latam/?web_view=true,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVCOUNT,29/07/2024,https://www.fortinet.com/blog/threat-research/phishing-campaign-targeting-mobile-users-in-india-using-india-post-lures?&web_view=true,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVCOUNT,29/07/2024,https://securityaffairs.com/166256/hacking/fake-crowdstrike-falcon-crash-reporter-installer.html,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVCOUNT,29/07/2024,https://securityaffairs.com/166265/intelligence/belarus-apt-ghostwriter-targeted-ukraine.html,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVCOUNT,29/07/2024,https://www.darkreading.com/endpoint-security/china-backed-smishing-campaign-targets-india-post-users,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVCOUNT,29/07/2024,https://www.bleepingcomputer.com/news/security/whatsapp-for-windows-lets-python-php-scripts-execute-with-no-warning/,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVCOUNT,29/07/2024,https://www.microsoft.com/en-us/security/blog/2024/07/25/onyx-sleet-uses-array-of-malware-to-gather-intelligence-for-north-korea/,1,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVCOUNT,29/07/2024,https://securityaffairs.com/166214/cyber-warfare-2/atm-services-russian-banks-hacked.html,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVCOUNT,29/07/2024,https://blogs.blackberry.com/en/2024/07/sidewinder-targets-ports-and-maritime-facilities-in-the-mediterranean-sea,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 
