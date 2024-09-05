@@ -2374,4 +2374,6 @@ ENVCOUNT,02/09/2024,https://www.reddit.com/r/blueteamsec/comments/1f5hao4/chines
 ENVCOUNT,02/09/2024,https://www.microsoft.com/en-us/security/blog/2024/08/30/north-korean-threat-actor-citrine-sleet-exploiting-chromium-zero-day/,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
 ENVCOUNT,02/09/2024,https://www.theregister.com/2024/08/31/ip_cameras_mirai_botnet/,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 ENVCOUNT,02/09/2024,https://www.securonix.com/blog/from-cobalt-strike-to-mimikatz-slowtempest/,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+ENVCOUNT,05/09/2024,https://www.microsoft.com/en-us/security/blog/2024/08/30/north-korean-threat-actor-citrine-sleet-exploiting-chromium-zero-day/,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+ENVCOUNT,05/09/2024,https://www.paloaltonetworks.com/blog/2024/09/combat-soc-analyst-burnout-with-ai/,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 
