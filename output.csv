@@ -1,20 +1,7 @@
-URL,Malware,Reversing,PenTest,OSCP,WriteUps,Vulnerabilities,PoC,Ransomware,Isreal/Gaza,CTI,Pivoting,Darkweb / Markets,Tools,Groups,Threat Hunting,Phishing,Geopolitical,Attribution,Advice,InfoWar,Australia,Forensics,CTFs,Fraud,Ukraine,SIEM,Networking,OSINT,Hardware,Business,CounterOps,Intrustions,Privacy,LOLBINS,Incident Response,Detections,Artificial Intelligence,Supply Chain,Recovery,Honeypots
-https://www.recordedfuture.com/research/outmaneuvering-rhysida-advanced-threat-intelligence-shields-critical-infrastructure-ransomware,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-https://www.microsoft.com/en-us/security/blog/2024/10/08/file-hosting-services-misused-for-identity-phishing/,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
-https://flashpoint.io/blog/the-value-importance-of-identity-intelligence/,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-https://isc.sans.edu/diary/rss/31342,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
-https://www.theregister.com/2024/10/09/marriott_settlements_data_breaches/,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
-https://www.theregister.com/2024/10/09/smart_tv_spy_on_viewers/,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
-https://www.theregister.com/2024/10/10/internet_archive_ddos_data_leak/,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
-https://research.checkpoint.com/2024/disinformation-campaign-moldova/,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-https://isc.sans.edu/diary/rss/31334,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-https://www.infosecurity-magazine.com/news/new-gen-malicious-qr-codes/,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-https://www.infosecurity-magazine.com/news/beavertail-malware-job-seekers/,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-https://www.infosecurity-magazine.com/news/beavertail-malware-job-seekers/,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
-https://www.darkreading.com/cybersecurity-operations/australia-intros-first-national-cyber-legislation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-https://news.drweb.com/show/?i=14920&lng=en,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-firewall-hijack-bugs-with-public-exploit/,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-https://www.rapid7.com/blog/post/2024/10/03/ransomware-groups-demystified-cybervolk-ransomware/,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-https://www.darkreading.com/cybersecurity-operations/ai-augmented-email-analysis-spots-latest-scams,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
-https://www.theregister.com/2024/10/09/trinity_ransomware_targets_healthcare_orgs/,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-https://www.bleepingcomputer.com/news/security/how-open-source-siem-and-xdr-tackle-evolving-threats/,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+URL,Malware,Reversing,PenTest,OSCP,WriteUps,Vulnerabilities,PoC,Ransomware,Isreal/Gaza,CTI,Pivoting,Darkweb / Markets,Tools,Groups,Threat Hunting,Phishing,Geopolitical,Attribution,Advice,InfoWar,Australia,Forensics,CTFs,Fraud,Ukraine,SIEM,Networking,OSINT,Hardware,Business,CounterOps,Intrustions,Privacy,LOLBINS,Incident Response,Detections,Artificial Intelligence,Supply Chain,Recovery,Honeypots,Video
+https://x.com/S0ufi4n3/status/1844310544653930853,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+https://x.com/MonThreat/status/1844307777008586989,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+https://x.com/MichalKoczwara/status/1844302222911476079,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+https://github.com/Spix0r/writeup-miner,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+https://x.com/akaclandestine/status/1844237582571311457,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+https://x.com/RussianPanda9xx/status/1844237143201247293,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

@@ -2434,4 +2434,10 @@ ENVCOUNT,10/10/2024,https://www.rapid7.com/blog/post/2024/10/03/ransomware-group
 ENVCOUNT,10/10/2024,https://www.darkreading.com/cybersecurity-operations/ai-augmented-email-analysis-spots-latest-scams,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
 ENVCOUNT,10/10/2024,https://www.theregister.com/2024/10/09/trinity_ransomware_targets_healthcare_orgs/,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 ENVCOUNT,10/10/2024,https://www.bleepingcomputer.com/news/security/how-open-source-siem-and-xdr-tackle-evolving-threats/,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVCOUNT,10/10/2024,https://x.com/S0ufi4n3/status/1844310544653930853,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVCOUNT,10/10/2024,https://x.com/MonThreat/status/1844307777008586989,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVCOUNT,10/10/2024,https://x.com/MichalKoczwara/status/1844302222911476079,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVCOUNT,10/10/2024,https://github.com/Spix0r/writeup-miner,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENVCOUNT,10/10/2024,https://x.com/akaclandestine/status/1844237582571311457,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+ENVCOUNT,10/10/2024,https://x.com/RussianPanda9xx/status/1844237143201247293,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 
