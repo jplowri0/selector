@@ -1,0 +1,15 @@
+https://www.proofpoint.com/us/blog/threat-insight/malware-must-not-be-named-suspected-espionage-campaign-delivers-voldemort
+https://www.theregister.com/2024/09/02/securonix_china_slowtempest_campaign/
+https://blog.sekoia.io/mamba-2fa-a-new-contender-in-the-aitm-phishing-ecosystem/
+https://x.com/TLP_R3D/status/1843714452547612876
+https://www.microsoft.com/en-us/security/blog/2024/10/08/file-hosting-services-misused-for-identity-phishing/
+https://research.checkpoint.com/2024/disinformation-campaign-moldova/
+https://www.infosecurity-magazine.com/news/new-gen-malicious-qr-codes/
+https://www.darkreading.com/cybersecurity-operations/ai-augmented-email-analysis-spots-latest-scams
+https://www.infosecurity-magazine.com/news/new-xiugou-phishing-kit-targets-us/
+https://blog.talosintelligence.com/threat-actors-use-copyright-infringement-phishing-lure-to-deploy-infostealers/
+https://www.darkreading.com/cyberattacks-data-breaches/facebook-businesses-targeted-infostealer-phishing-campaign
+https://www.redpacketsecurity.com/new-phishing-kit-xi-g-u-targets-users-across-five-countries-with-2-000-fake-sites/
+https://www.microsoft.com/en-us/security/blog/2024/10/29/midnight-blizzard-conducts-large-scale-spear-phishing-campaign-using-rdp-files/
+https://blog.checkpoint.com/research/check-point-research-unveils-q3-2024-brand-phishing-trends-microsoft-remains-most-imitated-brand-as-alibaba-and-adobe-enter-top-10/
+https://blog.checkpoint.com/research/stay-safe-this-prime-day-check-point-identifies-rise-in-phishing-attacks-and-scam-emails/
